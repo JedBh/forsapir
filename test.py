@@ -10,3 +10,4 @@ for i in range(0, 10):
 
 print("This is a change let's see if this works!")
 print("So first you make a change, then you commit and right after that you push")
+print("UPDATE: first write a file, add the file, commit, then push")
